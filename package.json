@@ -1,0 +1,23 @@
+{
+  "name": "ci-sandbox-temp",
+  "version": "1.0.0",
+  "description": "test ci",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-modules index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kento-machida/ci-sandbox-temp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kento-machida/ci-sandbox-temp/issues"
+  },
+  "homepage": "https://github.com/kento-machida/ci-sandbox-temp#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
